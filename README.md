@@ -23,4 +23,4 @@ How to Use This Repository:
 Contributing:
 This project is open for collaboration. Feel free to submit issues, pull requests, or improvements related to ethical hacking tools, techniques, and lab setups.
 License:
-This project is licensed under the [MIT License](LICENSE), allowing users to modify and distribute the project freel.
+This project is licensed under the [MIT License](LICENSE), allowing users to modify and distribute the project freely.
